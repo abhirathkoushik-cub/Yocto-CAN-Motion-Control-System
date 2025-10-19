@@ -1,7 +1,7 @@
 # Motion Sensor-Based Appliance Control System
 
 ## Project Overview: 
-[Project Overview Wiki Page](https://github.com/cu-ecen-aeld/final-project-abhirathkoushik-cub/wiki/Project-Overview)
+[Project Overview Wiki Page](https://github.com/abhirathkoushik-cub/ECEN5713_AESD_FinalProject/wiki)
 
 ## Project Goals
 - Detect and respond to human motion using PIR sensors on two Raspberry Pi 4 boards.
