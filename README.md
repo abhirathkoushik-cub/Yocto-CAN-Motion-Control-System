@@ -1,4 +1,4 @@
-# Motion Sensor-Based Appliance Control System
+# Yocto-Based Motion Sensor Appliance Control System
 
 ## Project Overview: 
 [Project Overview Wiki Page](https://github.com/abhirathkoushik-cub/ECEN5713_AESD_FinalProject/wiki)
